@@ -1,3 +1,5 @@
+# Solidus Brand Assets
+Solidus logo assets and brand guidelines
 
 ## Logo
 Please **DO NOT** alter the shape, proportion, color or orientation of the logos.
